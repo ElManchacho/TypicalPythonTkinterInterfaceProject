@@ -1,4 +1,4 @@
-# TypicalTkinterInterfaceProject
+# TypicalPythonTkinterInterfaceProject
 Fast tkinter project set up
 
 This project shows you how to properly :
