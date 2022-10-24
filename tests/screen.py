@@ -22,3 +22,8 @@ class Screen:
     def displayScreen(self) -> None:
 
         self.window.mainloop()
+
+
+testScreen = Screen()
+
+print(testScreen.resolution)
